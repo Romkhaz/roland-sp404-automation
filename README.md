@@ -61,7 +61,7 @@
 ## 🚀 Быстрый старт
 
 ### Standalone приложение (рекомендуется)
-1. **Скачайте** [Roland_SP404_Automation_macOS.zip](https://github.com/yourusername/roland-sp404-automation/releases/latest)
+1. **Скачайте** [Roland_SP404_Automation_macOS.zip](https://github.com/Romkhaz/roland-sp404-automation/releases/latest)
 2. **Распакуйте** архив
 3. **Запустите** `Roland SP-404 MKII Automation.app` двойным кликом
 4. **Выберите папки** и нажмите "Начать обработку"
