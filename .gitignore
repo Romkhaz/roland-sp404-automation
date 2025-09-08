@@ -190,7 +190,9 @@ temp_roland_processing/
 build/
 dist/
 *.app
-*.zip
+
+# Allow the main application archive
+!Roland_SP404_Automation_macOS.zip
 
 # IDE
 .vscode/

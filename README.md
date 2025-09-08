@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![macOS](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://www.apple.com/macos/)
+[![Release](https://img.shields.io/badge/release-v1.0.0-green.svg)](https://github.com/Romkhaz/roland-sp404-automation/releases/latest)
+[![Download](https://img.shields.io/badge/download-72.2%20MB-blue.svg)](https://github.com/Romkhaz/roland-sp404-automation/releases/latest)
 
 Полный набор инструментов для автоматизации подготовки файлов для Roland SP-404 MKII, включая нормализацию названий, конвертацию аудио и создание правильной структуры папок.
 
@@ -61,10 +63,12 @@
 ## 🚀 Быстрый старт
 
 ### Standalone приложение (рекомендуется)
-1. **Скачайте** [Roland_SP404_Automation_macOS.zip](https://github.com/Romkhaz/roland-sp404-automation/releases/latest)
+1. **Скачайте** [Roland_SP404_Automation_macOS.zip](https://github.com/Romkhaz/roland-sp404-automation/releases/latest) (72.2 MB)
 2. **Распакуйте** архив
 3. **Запустите** `Roland SP-404 MKII Automation.app` двойным кликом
 4. **Выберите папки** и нажмите "Начать обработку"
+
+> 💡 **Готово к использованию!** Не требует установки Python или дополнительных инструментов.
 
 ### GUI версия (для разработчиков)
 ```bash
