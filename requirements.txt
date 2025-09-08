@@ -1,0 +1,24 @@
+# Зависимости для Roland SP-404 MKII Automation Script
+
+# Для работы с SMB/CIFS сетевыми папками
+pysmb>=1.2.7
+
+# Для конвертации аудиофайлов (совместимо с Python 3.13)
+soundfile>=0.13.1
+scipy>=1.16.1
+numpy>=2.3.2
+
+# Дополнительные зависимости для pydub (для поддержки различных аудиоформатов)
+# Установите ffmpeg для полной поддержки аудиоформатов:
+# macOS: brew install ffmpeg
+# Ubuntu/Debian: sudo apt install ffmpeg
+# Windows: скачайте с https://ffmpeg.org/download.html
+
+# Стандартные библиотеки Python (уже включены):
+# - pathlib
+# - os
+# - re
+# - shutil
+# - logging
+# - unicodedata
+# - typing
